@@ -1,17 +1,20 @@
-# Hi 👋, I'm Nathala Hanuvardhan Reddy
+# Hi there, I'm Nathala Hanuvardhan Reddy 👋
 
-🎓 B.Tech CSE (AI & ML)
+🚀 B.Tech CSE (AIML) Student | AI & ML Enthusiast | Future AI Engineer
+💡 Passionate about building AI-powered applications and solving real-world problems through technology.
+🎯 Building AI-powered projects, automation tools, and ML applications.
 
-## 👨‍💻 About Me
+# 🌟 About Me
+🎓 B.Tech CSE Student specializing in Artificial Intelligence & Machine Learning
+🤖 AI/ML Enthusiast passionate about solving real-world problems
+💻 Building intelligent applications using Python, Streamlit, and Machine Learning
+📚 Currently learning Java, DSA, Deep Learning, and Full Stack Development
+🚀 Aspiring to become an AI Engineer at top tech companies
+🌱 Consistently improving through projects and hands-on learning
 
-- 🌱 Currently learning Cloud Computing
-- 🤖 Learning Generative AI
-- 💻 Python Developer
-- 🌐 Interested in AI, ML and Full Stack Development
+## 🛠 Tech Stack
 
----
-
-## 🛠 Skills
+💻 Languages
 
 - Python
 - Java
