@@ -13,7 +13,7 @@
 -🌱 Consistently improving through projects and hands-on learning
 # 🛠️ Tech Stack
 # 💻 Languages
--Python
+- Python
 -SQL
 -HTML
 -CSS
