@@ -39,10 +39,10 @@
 ---
 
 # 🌐 Connect With Me
-💼 LinkedIn: https://www.linkedin.com/in/nathalahanuvardhanreddy290406
-📂 GitHub: https://github.com/sahithi-manda
-📧 Email: nathalahanuvardhanreddy@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/nathalahanuvardhanreddy290406
+- 📂 GitHub: https://github.com/hanuvardhanreddy
+- 📧 Email: nathalahanuvardhanreddy@gmail.com
 # ✨ Quote
 "Dream big. Stay consistent. Build relentlessly."
-
+# 
 ⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
